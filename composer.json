@@ -1,6 +1,6 @@
 {
-  "name": "druid/php-sdk",
-  "version": "1.0.3",
+  "name": "yondbee/php-sdk",
+  "version": "1.0.4",
   "description": "DRUID SDK for PHP",
   "license": "Apache-2.0",
   "minimum-stability": "dev",
